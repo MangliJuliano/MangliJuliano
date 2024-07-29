@@ -1,8 +1,8 @@
 Yarn Dev🍃
 
- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HeiwaSiro)
- [![YouTube](https://img.shields.io/badge/YouTube-FF170F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HeiwaSiro)
- [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:HeiwaSiro@proton.me)
+ [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MangliJuliano)
+ [![YouTube](https://img.shields.io/badge/YouTube-FF170F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MangliJuliano)
+ [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MangliJuliano@proton.me)
 
 <details>
   
@@ -10,7 +10,7 @@ Yarn Dev🍃
 
 I build Discord Bots, i work to make them compatible with Discord.js and Node.js.
 
-- 🤖 [Default Discord Bot](https://github.com/HeiwaSiro/default-discord-bot-js): A basic Discord bot built using Node.js and Discord.js. It includes a structured setup for handling events, commands, and deploying slash commands to Discord servers.
+- 🤖 [Default Discord Bot](https://github.com/MangliJuliano/default-discord-bot-js): A basic Discord bot built using Node.js and Discord.js. It includes a structured setup for handling events, commands, and deploying slash commands to Discord servers.
 
 </details>
 
@@ -35,7 +35,7 @@ I am interested to anything Technology related.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MangliJuliano&show_icons=true&locale=en" alt="MangliJuliano" /></p>
 
 ## *Support my Work*
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/HeiwaSiro)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MangliJuliano)
 
 <details>
 
