@@ -30,9 +30,9 @@ I am interested to anything Technology related.
 
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiwasiro&show_icons=true&locale=en&layout=compact" alt="heiwasiro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MangliJuliano&show_icons=true&locale=en&layout=compact" alt="MangliJuliano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heiwasiro&show_icons=true&locale=en" alt="heiwasiro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MangliJuliano&show_icons=true&locale=en" alt="MangliJuliano" /></p>
 
 ## *Support my Work*
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/HeiwaSiro)
@@ -49,4 +49,4 @@ I am interested to anything Technology related.
 
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heiwasiro&label=Profile%20views&color=0e75b6&style=flat" alt="heiwasiro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MangliJuliano&label=Profile%20views&color=0e75b6&style=flat" alt="MangliJuliano" /> </p>
