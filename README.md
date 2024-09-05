@@ -1,8 +1,8 @@
 Yarn Dev🍃
 
- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MangliJuliano)
- [![YouTube](https://img.shields.io/badge/YouTube-FF170F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MangliJuliano)
- [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MangliJuliano@proton.me)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MangliJuliano)
+[![YouTube](https://img.shields.io/badge/YouTube-FF170F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MangliJuliano)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MangliJuliano@proton.me)
 
 <details>
   
@@ -34,7 +34,8 @@ I am interested to anything Technology related.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MangliJuliano&show_icons=true&locale=en" alt="MangliJuliano" /></p>
 
-## *Support my Work*
+## _Support my Work_
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MangliJuliano)
 
 <details>
@@ -43,9 +44,9 @@ I am interested to anything Technology related.
  
  <br />
 
-| Currency          | Wallet Address                                                                                               |
-|-------------------|--------------------------------------------------------------------------------------------------------------|
-| Ethereum (ETH)    | 0x84e4a42550180874af2d3b0714425a0c1981f12f                                                                   |
+| Currency       | Wallet Address                             |
+| -------------- | ------------------------------------------ |
+| Ethereum (ETH) | 0xaD57624A310f48915Bf82f092afedf61Bca728b2 |
 
 </details>
 
