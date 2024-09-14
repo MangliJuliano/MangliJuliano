@@ -2,7 +2,7 @@ Yarn Dev🍃
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MangliJuliano)
 [![YouTube](https://img.shields.io/badge/YouTube-FF170F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MangliJuliano)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MangliJuliano@proton.me)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:heiwasiro@proton.me)
 
 <details>
   
