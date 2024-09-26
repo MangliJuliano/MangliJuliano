@@ -38,16 +38,4 @@ I am interested to anything Technology related.
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/MangliJuliano)
 
-<details>
-
-  <summary>↕️ <bold>Cryptocurrency List</bold></summary>
- 
- <br />
-
-| Currency       | Wallet Address                             |
-| -------------- | ------------------------------------------ |
-| Ethereum (ETH) | 0xaD57624A310f48915Bf82f092afedf61Bca728b2 |
-
-</details>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MangliJuliano&label=Profile%20views&color=0e75b6&style=flat" alt="MangliJuliano" /> </p>
